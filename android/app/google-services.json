@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "777443582790",
+    "project_id": "tpflutter-e9709",
+    "storage_bucket": "tpflutter-e9709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777443582790:android:a55c26e84260099c043b47",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777443582790-o66cn9ak0pf1ulit295onb3dc79na1k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsvIzIV1MPhloAaNWHjpilsPkyF56M1Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777443582790-o66cn9ak0pf1ulit295onb3dc79na1k8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "777443582790-l6lvs8v6lg774upcmclorn13suhugrct.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseauth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
